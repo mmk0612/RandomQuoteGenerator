@@ -31,9 +31,7 @@ function Quotes(){
             <div id="author"><p>~{author}</p></div>
             <div id="buttons">
                 <div id="social-media">
-                    <a href="#" id="twet-quote"><i class="fa-brands fa-twitter"></i>
-                    </a>
-                    <a href="#" id="insta-quote"><i class="fa-brands fa-instagram"></i>
+                    <a href="https://twitter.com/compose/tweet" id="twet-quote"><i class="fa-brands fa-twitter"></i>
                     </a>
                     <button type="button" class="btn btn-info btn-lg" id="new-quotes" onClick={handleClick}>New Quote</button>
                 </div>
