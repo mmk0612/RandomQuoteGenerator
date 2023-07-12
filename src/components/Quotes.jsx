@@ -33,7 +33,7 @@ function Quotes(){
                 <div id="social-media">
                     <a href="https://twitter.com/compose/tweet" id="twet-quote"><i class="fa-brands fa-twitter"></i>
                     </a>
-                    <button type="button" class="btn btn-info btn-lg" id="new-quotes" onClick={handleClick}>New Quote</button>
+                    <button type="button" class="btn btn-info" id="new-quotes" onClick={handleClick}>New Quote</button>
                 </div>
             </div>
         </div>
